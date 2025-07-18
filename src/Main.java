@@ -1,5 +1,5 @@
 class Student{
-String name="John Doe";
+string name="John Doe";
 int rollNumber= 71;
 char grade='S';
 public void displayDetails(){
